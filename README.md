@@ -35,7 +35,7 @@ This is the main career website for George Lychock. It contains all the job, edu
 
 *   ### Wireframes
 
-    -   Home Page Wireframe - [View](https://github.com/)
+    -   Home Page Wireframe - [View](images/wireframes/georgelychock-career 01.pdf)
 
     -   Mobile Wireframe - [View](https://github.com/)
 
